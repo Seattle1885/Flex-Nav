@@ -1,0 +1,30 @@
+body{
+  /*! background-color: aliceblue; */
+  display: flex;
+
+}
+#dojo_pic{
+  width: 100px;
+  height: 100px;
+}
+h1{
+  display: flex;
+  color: white;
+}
+#centerbox{
+  width: 200px;
+  height: 200px;
+
+}
+ul{
+  display: flex;
+  padding: 25px;
+  list-style-type: none; 
+  color: white;
+}
+#dojo_pic, #center-box, ul{
+background-color: #4980d3;
+}
+li{
+  color: white;
+}
